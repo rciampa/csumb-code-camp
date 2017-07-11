@@ -1,0 +1,1 @@
+[30-Jun-2017 22:32:32 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ubuntu/workspace/csumb-code-camp/wspeed/anemometer.php on line 2
